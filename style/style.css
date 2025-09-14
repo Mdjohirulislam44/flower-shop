@@ -127,3 +127,57 @@ body{
     width: 90;
     margin: 0 auto;
 }
+.hotdeal{
+     max-width:1440px;
+    height: 450px;
+    
+}
+.text-img-container{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 80px;
+    background-color: rgb(244, 225, 225);
+    
+}
+.textcontainer{
+    width: 50%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.textcontainer button{
+    width:120px ;
+    height:45px ;
+    background-color: rgba(229, 84, 115);
+    border: none;
+    border-radius: 2px;
+    margin-top: 10px;
+
+
+
+}
+.imgcontainer{
+     width: 50%;
+    /* border: 2px solid blue; */
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+.textcontainer h1{
+    text-align: center;
+
+}
+.textcontainer h1 span{
+   color: rgb(220, 14, 14);
+}
+
