@@ -256,3 +256,21 @@ body{
    border: none;
    border-radius:2px ;
 }
+.footer{
+    height: 200px;
+    /* border: 2px solid red; */
+    background-color: black;
+}
+.footer-hp{
+    color: white;
+    display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+    padding: 60px;
+}
+.span{
+    color:rgb(159, 22, 22) ;
+}
